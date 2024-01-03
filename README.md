@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlowry
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Machine Learning Models
+- 🌱 I’m currently learning ... Ensemble Techniques in Machine Learning
 - 💞️ I’m looking to collaborate on ... Data Science Projects
 - 📫 How to reach me ... vanessa_lowry@knights.ucf.edu
 
